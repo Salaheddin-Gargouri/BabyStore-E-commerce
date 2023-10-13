@@ -1,0 +1,12 @@
+footer {
+  margin-top: 20px;
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  background-color: rgba(0, 0, 0, 0.2);
+
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
